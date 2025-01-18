@@ -1,0 +1,12 @@
+[project]
+name = "telefonica"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datetime>=5.5",
+    "json5>=0.10.0",
+    "pandas==2.1.4",
+    "pathlib>=1.0.1",
+]
